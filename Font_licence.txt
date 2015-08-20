@@ -7,6 +7,7 @@ And use of this font is permitted under SIL Open Font Licence, Vers 1.1.
 • Droid Sans Fallback.ttf -Apache License, Version 2.0
 • HanaMinA.ttf -SIL OPEN FONT LICENSE Version 1.1
 • HanaMinB.ttf -SIL OPEN FONT LICENSE Version 1.1
+• NotoSans-Regular.ttf - Apache License, Version 2.0
 
 
 NHN, the creator of NamunGothic,  permits the use of its font under the SIL Open Font Licence, Vers 1.1 shown below.
